@@ -12,6 +12,7 @@ Hi, I'm Shahzaib Mumtaz from United Kingdom. I really enjoy learning languages a
 You can check out my:
 
 LinkedIn: https://www.linkedin.com/in/shahzaib-mumtaz-344065206/
+
 Github: https://github.com/Shahzaib2210.
 
 | Rank | THING-TO-RANK |
