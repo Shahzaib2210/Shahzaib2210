@@ -9,6 +9,14 @@
 
 Hi, I'm Shahzaib Mumtaz.
 
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1| Swift         |
+|     2| Python        |
+|     3| OOP           |
+|     4| C++           |
+
+
 
 <!--
 **Shahzaib2210/Shahzaib2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
