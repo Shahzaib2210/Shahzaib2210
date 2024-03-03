@@ -1,8 +1,9 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset=![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/8eee310e-7975-4111-8521-37a41cf0d0d3)>
- <source media="(prefers-color-scheme: light)" srcset=![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/8eee310e-7975-4111-8521-37a41cf0d0d3)>
- <img alt="YOUR-ALT-TEXT" src=![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/8eee310e-7975-4111-8521-37a41cf0d0d3)>
+  <source media="(prefers-color-scheme: dark)" srcset="![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/3f17d38c-4ddc-49fd-9d60-724f788df7d4)">
+  <source media="(prefers-color-scheme: light)" srcset="![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/3f17d38c-4ddc-49fd-9d60-724f788df7d4)">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/3f17d38c-4ddc-49fd-9d60-724f788df7d4)">
 </picture>
+
 
 
 
