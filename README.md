@@ -1,10 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="
-![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/8eee310e-7975-4111-8521-37a41cf0d0d3)">
- <source media="(prefers-color-scheme: light)" srcset="
-![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/8eee310e-7975-4111-8521-37a41cf0d0d3)">
- <img alt="YOUR-ALT-TEXT" src="
-![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/8eee310e-7975-4111-8521-37a41cf0d0d3)">
+ <source media="(prefers-color-scheme: dark)" srcset=![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/8eee310e-7975-4111-8521-37a41cf0d0d3)>
+ <source media="(prefers-color-scheme: light)" srcset=![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/8eee310e-7975-4111-8521-37a41cf0d0d3)>
+ <img alt="YOUR-ALT-TEXT" src=![Profile](https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/8eee310e-7975-4111-8521-37a41cf0d0d3)>
 </picture>
 
 
