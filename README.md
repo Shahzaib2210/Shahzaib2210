@@ -9,7 +9,10 @@
 ## About me
 
 Hi, I'm Shahzaib Mumtaz from United Kingdom. I really enjoy learning languages and frameworks like Swift and IOS, as well as work in Python.
-You can check out LinkedIn at https://www.linkedin.com/in/shahzaib-mumtaz-344065206/ and Github Profile at https://github.com/Shahzaib2210.
+You can check out my:
+
+LinkedIn: https://www.linkedin.com/in/shahzaib-mumtaz-344065206/
+Github: https://github.com/Shahzaib2210.
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
