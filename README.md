@@ -1,13 +1,15 @@
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/3f17d38c-4ddc-49fd-9d60-724f788df7d4">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/3f17d38c-4ddc-49fd-9d60-724f788df7d4">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/Shahzaib2210/Shahzaib2210/assets/98727898/3f17d38c-4ddc-49fd-9d60-724f788df7d4">
 </picture>
-
+-->
 
 ## About me
 
-Hi, I'm Shahzaib Mumtaz.
+Hi, I'm Shahzaib Mumtaz from United Kingdom. I really enjoy learning languages and frameworks like Swift and IOS, as well as work in Python.
+You can check out LinkedIn at https://www.linkedin.com/in/shahzaib-mumtaz-344065206/ and Github Profile at https://github.com/Shahzaib2210.
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
