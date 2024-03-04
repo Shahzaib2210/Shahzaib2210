@@ -20,8 +20,6 @@ Github: https://github.com/Shahzaib2210.
 |-----:|---------------|
 |     1| Swift         |
 |     2| Python        |
-|     3| OOP           |
-|     4| C++           |
 
 
 
