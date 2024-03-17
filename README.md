@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahzaib</h1>
 
 # 💫 About Me:
-Software Engineer sharing about my journey and learning in tech
-Studied Computer Science at the PMAS Arid Agriculture University, Pakistan
-I'm currently learning Python 
+Software Engineer sharing about my journey and learning in tech<br>
+Studied Computer Science at the PMAS Arid Agriculture University, Pakistan<br>
+I'm currently learning Python<br> 
 
 
 ## 🌐 Socials:
